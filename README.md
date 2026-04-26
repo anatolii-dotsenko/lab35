@@ -27,3 +27,6 @@ http://localhost:3000
 * src/index.ts - точка входу та збирання застосунку.
 
 * dist/ - скомпільований код (генерується після npx tsc).
+
+# Screenshot
+<img width="848" height="760" alt="image" src="https://github.com/user-attachments/assets/325a16e1-f51e-4f71-9d3a-850fc5c635ea" />
