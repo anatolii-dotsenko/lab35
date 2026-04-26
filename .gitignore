@@ -1,0 +1,13 @@
+# deps
+node_modules/
+
+# compiled
+dist/
+
+# env
+.DS_Store
+.vscode
+
+# logs NPM
+npm-debug.log*
+*-debug.log
