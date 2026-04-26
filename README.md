@@ -30,3 +30,6 @@ http://localhost:3000
 * dist/ - автоматично згенерований скомпільований JavaScript-код.
 
 # Screenshot
+<img width="958" height="480" alt="image" src="https://github.com/user-attachments/assets/c2395562-6418-4fc1-a09d-30a053d7ab36" />
+<img width="959" height="688" alt="image" src="https://github.com/user-attachments/assets/ad0ba03a-ae88-42fb-a00b-207e8619a523" />
+
